@@ -5,7 +5,8 @@ function App() {
       <header className="App-header">
         Hello Word
 
-        <div>测试1</>
+        <div>测试1</div>
+        <div>测试2</div>
       </header>
     </div>
   );
